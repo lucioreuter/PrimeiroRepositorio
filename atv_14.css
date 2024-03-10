@@ -1,0 +1,18 @@
+footer {
+background-color: #c58000;
+color: rgb(72, 35, 35);
+text-align: center;
+padding: 2px 0;
+}
+section{
+    background-color: #fec356;
+    border-radius: 3%;
+    text-align: center;
+}
+#navi{
+    background-color: #c58000;
+}
+h2{
+    color:rgb(163, 7, 247);
+    background-color: #c58000;
+}
